@@ -3,7 +3,7 @@ Automation test UI using cypress
 
 **INSTALLATION**
 1. Clone the repo
-[https://github.com/yanist1/JOJONOMIC-UI](https://github.com/yanist1/JOJONOMIC-UI.git)
+```https://github.com/yanist1/JOJONOMIC-UI.git```
 2. Go to project directory
 3. Install NPM packages
 ```npm install```
